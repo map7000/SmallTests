@@ -1,5 +1,5 @@
 # test
 Blank project for small code tests
 Contains
-- Logger
+- Log4j2
 - JUnit5
