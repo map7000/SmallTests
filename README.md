@@ -1,4 +1,4 @@
-# test
+# SmallTests
 Blank project for small code tests
 Contains
 - Log4j2
